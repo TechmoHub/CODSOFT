@@ -1,0 +1,18 @@
+Usage:   
+
+  TO-DO LIST <command> [options]
+
+Commands:
+    addtask                    Add a new task.
+    select                      Select a task.
+    help                        Show help for commands.
+    save                        Save changes.
+    kill                        Terminate the program and save.
+    delete                      Delete the selected task
+    track                       Track the status of the task                                       
+    goback                      Deselect the selected task
+    editname                    Edit the name of a selected task
+    editdescription             Edit the description of the selected task
+    refresh                     Refresh the program
+    clear                       Clear the screen
+    track                       Track the status of the selected task
